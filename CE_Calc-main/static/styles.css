@@ -1,0 +1,63 @@
+body{
+    font-family:"Times";
+    font-weight: bold;
+    text-align: center;
+    background-color: #6b1d5f;
+    color:#fff;
+    margin: 20px;
+}
+h1{
+    margin: 20px 40px;
+    padding: 20px;
+}
+h2{
+    font-family:"Montserrat Bold";
+    /* text-align:center; */
+    margin-left: 5px;
+    padding: 20px;
+    /* color: #4e0443; */
+    color: #350f2f;
+    text-align: center;
+    font-size: 30px;
+}
+.circle{
+    background-color: #e1b1da;
+    width: 520px;
+    height: 520px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 168px 50px;
+    position: relative;
+    
+/* font-size:medium; */
+/* text-align: center; */
+/* 
+  background: rgba(72, 156, 234, 1);
+  background: -moz-linear-gradient(left, rgba(72, 156, 234, 1) 0%, rgba(31, 123, 229, 1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(72, 156, 234, 1)), color-stop(100%, rgba(31, 123, 229, 1)));
+  background: -webkit-linear-gradient(left, rgba(72, 156, 234, 1) 0%, rgba(31, 123, 229, 1) 100%);
+  background: -o-linear-gradient(left, rgba(72, 156, 234, 1) 0%, rgba(31, 123, 229, 1) 100%);
+  background: -ms-linear-gradient(left, rgba(72, 156, 234, 1) 0%, rgba(31, 123, 229, 1) 100%);
+  background: linear-gradient(to right, rgba(72, 156, 234, 1) 0%, rgba(31, 123, 229, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#489cea', endColorstr='#1f7be5', GradientType=1);
+  border-radius: 50%;
+  height: 580px;
+  width:  580px;
+  position: relative;
+  box-shadow: 0 0 0 5px #F1F1F1;
+  margin: 10px; 
+  padding: 50px 50px;
+  color: #6F0;
+  margin-bottom: 50px;
+  vertical-align: middle; 
+  margin: auto;
+  line-height: 80px; 
+*/
+}
+
+.text-1{
+    text-align: left;
+    clear: right;   
+}
+
+/* rgb(168, 6, 168) */
